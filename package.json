@@ -1,0 +1,13 @@
+{
+  "name": "nft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "author": "Matyi Kari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "form-data": "^4.0.0"
+  }
+}
