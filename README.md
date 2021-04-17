@@ -21,6 +21,7 @@ Create a `config.json` file with your accounts in it, formatted like this:
       "twofa_code": "097502",
       "token": "UNYCndN1YQeTM6AnM4VOp08etFrMCE"
     }
+  ]
 }
 ```
 
