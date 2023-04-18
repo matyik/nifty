@@ -1,4 +1,4 @@
-## Nifty Gateway drawing bot
+## Nifty Gateway drawing bot [NO LONGER WORKS]
 
 ### Setup
 
